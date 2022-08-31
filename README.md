@@ -1,4 +1,4 @@
-### Hola, Soy Oscar Restrepo
+### <h1>Hola, Soy Oscar Restrepo</h1>
 
 <img src="codigo.png"  width="900px" height="300px"/>
 
@@ -83,7 +83,7 @@ Las características del proyecto son las siguientes:
 </p>
 
 <video width="320" height="240" controls>
-  <source src="tour.mp4" type="video/mp4">
+  <source src="https://www.youtube.com/watch?v=eqiU8B8Xjf8&feature=youtu.be">
   Video Tour, click aqui
   </video>
 
