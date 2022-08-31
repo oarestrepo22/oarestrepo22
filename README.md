@@ -34,28 +34,28 @@ Este proyecto lo hemos realizado pensando en dos perfiles. Por una parte está e
 
 Las características del proyecto son las siguientes:
 
-Usuarios
+<b>Usuarios</b>
 
 <ul>
-<li>• Registrarse , iniciar sesión</li>
-​<li>• ​Buscar instrumentos por nombre</li>
-<li>• ​Filtrar por categorías</li>
-<li>​• ​Ordenar por precio y alfabéticamente</li>
-<li>• Pasarela de pago</li>
-<li>• Carrito de compras y página de favoritos</li>
-<li>• Editar su perfil</li>
-<li>• Botón whatsApp</li>
- <li>• Mailing para </li>
+<li>Registrarse , iniciar sesión</li>
+​<li>​Buscar instrumentos por nombre</li>
+<li>​Filtrar por categorías</li>
+<li>​​Ordenar por precio y alfabéticamente</li>
+<li>Pasarela de pago</li>
+<li>Carrito de compras y página de favoritos</li>
+<li>Editar su perfil</li>
+<li>Botón whatsApp</li>
+ <li>Mailing para </li>
 </ul>
 
-Administradores
+<b>Administradores</b>
 
 <ul>
-<li>• Módulo Instrumentos</li>
-<li>• Módulo Usuarios</li>
-<li>• Módulo Administradores</li>
-<li>• Módulo Historyshop con estadísticas de productos vendidos</li>
-<li>• Módulo Categorías</li>
+<li>Módulo Instrumentos</li>
+<li>Módulo Usuarios</li>
+<li>Módulo Administradores</li>
+<li>Módulo Historyshop con estadísticas de productos vendidos</li>
+<li>Módulo Categorías</li>
 </ul>
 En cada módulo se puede crear, editar, eliminar y buscar elementos
 
