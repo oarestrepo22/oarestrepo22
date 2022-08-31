@@ -89,4 +89,4 @@ Las características del proyecto son las siguientes:
 <a href="https://www.linkedin.com/in/oarestrepo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="armucode" height="30" width="40" /></a>
 
 <h3 align="left">Contáctame</h3>
-### <img src="https://media3.giphy.com/media/iPRtIf0OlGlSnNfV7W/200w.webp?cid=790b7611dtpnuzh2rd2pw6j68js0hqw2qjyfhwih1x07daod&rid=200w.webp&ct=s" width="40">
+**oscar.restrepo2@gmail.com**
