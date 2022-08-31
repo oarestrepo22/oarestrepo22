@@ -1,4 +1,4 @@
-### Hola
+### Hola, Soy Oscar Restrepo
 
 Soy un Full Stack Developer con capacidad de generar soluciones web ágiles, escalables y siempre pensando en cumplir las necesidades y objetivos del cliente.
 
@@ -28,6 +28,10 @@ Desde que conocí el mundo de la programación me he vuelto un curioso y enamora
  </p>
 
 <h2 align="left">🚀 Mis Proyectos:</h2>
+
+<h3>MusiCommerce</h3>
+ <p> <a href="https://musicommerce2022.vercel.app/">Ingresa a MusiCommerce</a></p>
+
 MusiCommerce es un e-commerce especializado en la venta y distribución de instrumentos musicales. Nuestro principal objetivo es crear una plataforma para ofrecer una variedad de productos de calidad (nuevos y usados) a nuestros clientes y que puedan ser adquiridos de manera rápida y segura.
 
 Este proyecto lo hemos realizado pensando en dos perfiles. Por una parte está el usuario o comprador y por el otro el administrador o administradores de
@@ -57,9 +61,9 @@ Las características del proyecto son las siguientes:
 <li>Módulo Historyshop con estadísticas de productos vendidos</li>
 <li>Módulo Categorías</li>
 </ul>
-En cada módulo se puede crear, editar, eliminar y buscar elementos
+<p>En cada módulo se puede crear, editar, eliminar y buscar elementos</p>
 
-Tecnologías
+<p>Tecnologías
 #javascript
 #react
 #redux
@@ -69,4 +73,11 @@ Tecnologías
 #tailwindcss
 #express
 #sequelize
-#postgreSQL.
+#postgreSQL</p>
+
+<p>
+<img src="music.png"  width="420px" height="310px"/>
+<img src="music1.png"  width="420px" height="310px"/>
+<img src="music2.png"  width="420px" height="310px"/>
+<img src="music5.png"  width="420px" height="310px"/>
+</p>
