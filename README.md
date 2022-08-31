@@ -82,10 +82,10 @@ Las características del proyecto son las siguientes:
 
 </p>
 
-<video width="320" height="240" controls>
-  <source src="https://www.youtube.com/watch?v=eqiU8B8Xjf8&feature=youtu.be">
+<div width="320" height="240" controls>
+  <source src="https://www.youtube.com/watch?v=eqiU8B8Xjf8&feature=youtu.be" type="video/mp4">
   Video Tour, click aqui
-  </video>
+  </div>
 
 <h2 align="left">Conecta conmigo</h2>
 <a href="https://www.linkedin.com/in/oarestrepo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="armucode" height="30" width="40" /></a>
