@@ -1,5 +1,7 @@
 ### Hola, Soy Oscar Restrepo
 
+<img src="codigo.png"  width="900px" height="600px"/>
+
 Soy un Full Stack Developer con capacidad de generar soluciones web ágiles, escalables y siempre pensando en cumplir las necesidades y objetivos del cliente.
 
 Desde que conocí el mundo de la programación me he vuelto un curioso y enamorado por el desarrollo web. Con la firme idea que con responsabilidad, disciplina y constancia se puede cumplir cualquier objetivo me he convertido en un desarrollador con gran capacidad de trabajo en equipo, resolución de problemas y orientación al cumplimiento de metas.
@@ -85,8 +87,8 @@ Las características del proyecto son las siguientes:
   Video Tour, click aqui
   </video>
 
-<h3 align="left">Conecta conmigo:</h3>
+<h2 align="left">Conecta conmigo</h2>
 <a href="https://www.linkedin.com/in/oarestrepo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="armucode" height="30" width="40" /></a>
 
-<h3 align="left">Contáctame</h3>
+<h2 align="left">Contáctame</h2>
 <p><img src="https://media3.giphy.com/media/iPRtIf0OlGlSnNfV7W/200w.webp?cid=790b7611dtpnuzh2rd2pw6j68js0hqw2qjyfhwih1x07daod&rid=200w.webp&ct=s" width="40"> oscar.restrepo2@gmail.com</p>
