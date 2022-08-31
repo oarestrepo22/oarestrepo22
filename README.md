@@ -78,7 +78,7 @@ Las características del proyecto son las siguientes:
 #postgreSQL</p>
 
 <p>
-<img src="music.png"  width="400px" height="310px"/>
+<img src="music.png"  width="400px" height="200px"/>
 
 </p>
 
