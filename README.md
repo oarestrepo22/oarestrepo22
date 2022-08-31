@@ -77,7 +77,10 @@ Las características del proyecto son las siguientes:
 
 <p>
 <img src="music.png"  width="400px" height="310px"/>
-<img src="music1.png"  width="380px" height="310px"/>
-<img src="music2.png"  width="420px" height="310px"/>
-<img src="music5.png"  width="420px" height="310px"/>
+
 </p>
+
+<video width="320" height="240" controls>
+  <source src="tour.mp4" type="video/mp4">
+  Video Tour, click aqui
+  </video>
