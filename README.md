@@ -26,3 +26,45 @@ Desde que conocí el mundo de la programación me he vuelto un curioso y enamora
 <img src="https://camo.githubusercontent.com/42d79599b684d4449d0fab6ee8df849c39fa0148993c7680b85210494dda4599/68747470733a2f2f63646e342e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f6c6f676f732d332f3630302f52656163742e6a735f6c6f676f2d3531322e706e67" width="40" /> 
 <img src="https://camo.githubusercontent.com/b2cb9808399ad53bdcf25e6e1d4906ced494ad70fc7a6de5cb2b6c552f77870f/68747470733a2f2f6272616e64736c6f676f732e636f6d2f77702d636f6e74656e742f75706c6f6164732f696d616765732f6c617267652f72656475782d6c6f676f2e706e67"  width="40" />
  </p>
+
+<h2 align="left">🚀 Mis Proyectos:</h2>
+MusiCommerce es un e-commerce especializado en la venta y distribución de instrumentos musicales. Nuestro principal objetivo es crear una plataforma para ofrecer una variedad de productos de calidad (nuevos y usados) a nuestros clientes y que puedan ser adquiridos de manera rápida y segura.
+
+Este proyecto lo hemos realizado pensando en dos perfiles. Por una parte está el usuario o comprador y por el otro el administrador o administradores de
+
+Las características del proyecto son las siguientes:
+
+Usuarios
+• Registrarse , iniciar sesión.
+​• ​Buscar instrumentos por nombre.
+• ​Filtrar por categorías.
+​• ​Ordenar por precio y alfabéticamente.
+• Pasarela de pago.
+• Carrito de compras y página de favoritos.
+• Editar su perfil
+• Botón whatsApp
+• Mailing para :
+• Registro y newsletter
+• Cambiar contraseña
+• Resumen compras
+
+Administradores
+• Módulo Instrumentos
+• Módulo Usuarios
+• Módulo Administradores
+• Módulo Historyshop con estadísticas de productos vendidos
+• Módulo Categorías
+
+En cada módulo se puede crear, editar, eliminar y buscar elementos
+
+Tecnologías
+#javascript
+#react
+#redux
+#html5
+#tailwindcss
+#nodejs
+#tailwindcss
+#express
+#sequelize
+#postgreSQL.
