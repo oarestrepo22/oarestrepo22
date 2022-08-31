@@ -1,6 +1,6 @@
 ### Hola, Soy Oscar Restrepo
 
-<img src="codigo.png"  width="900px" height="600px"/>
+<img src="codigo.png"  width="900px" height="300px"/>
 
 Soy un Full Stack Developer con capacidad de generar soluciones web ágiles, escalables y siempre pensando en cumplir las necesidades y objetivos del cliente.
 
