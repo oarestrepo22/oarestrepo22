@@ -2,7 +2,7 @@
 
 <img src="codigo.png"  width="900px" height="300px"/>
 
-Soy un Full Stack Developer con capacidad de generar soluciones web ágiles, escalables y siempre pensando en cumplir las necesidades y objetivos del cliente.
+Soy Backend Developer con capacidad de generar soluciones web ágiles, escalables y siempre pensando en cumplir las necesidades y objetivos del cliente.
 
 Desde que conocí el mundo de la programación me he vuelto un curioso y enamorado por el desarrollo web. Con la firme idea que con responsabilidad, disciplina y constancia se puede cumplir cualquier objetivo me he convertido en un desarrollador con gran capacidad de trabajo en equipo, resolución de problemas y orientación al cumplimiento de metas.
 
