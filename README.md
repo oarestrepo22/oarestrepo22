@@ -2,9 +2,7 @@
 
 <img src="codigo.png"  width="900px" height="300px"/>
 
-Soy Backend Developer con capacidad de generar soluciones web ágiles, escalables y siempre pensando en cumplir las necesidades y objetivos del cliente.
-
-Desde que conocí el mundo de la programación me he vuelto un curioso y enamorado por el desarrollo web. Con la firme idea que con responsabilidad, disciplina y constancia se puede cumplir cualquier objetivo me he convertido en un desarrollador con gran capacidad de trabajo en equipo, resolución de problemas y orientación al cumplimiento de metas.
+Soy un Desarrollador Backend, con una pasión por liderar el desarrollo de tecnologías robustas para aplicaciones críticas. Mi enfoque se centra en la toma de decisiones estratégicas y el diseño de arquitecturas tecnológicas sólidas, seguras y escalables. Destaco por mi capacidad para liderar equipos y proyectos hacia el éxito tecnológico. 
 
 <h2 align="left">🛠️ Tecnologias:</h2>
 
