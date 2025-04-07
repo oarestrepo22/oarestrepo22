@@ -2,7 +2,11 @@
 
 <img src="codigo.png"  width="900px" height="300px"/>
 
-Soy un Desarrollador Backend, con una pasión por liderar el desarrollo de tecnologías robustas para aplicaciones críticas. Mi enfoque se centra en la toma de decisiones estratégicas y el diseño de arquitecturas tecnológicas sólidas, seguras y escalables. Destaco por mi capacidad para liderar equipos y proyectos hacia el éxito tecnológico. 
+Soy Desarrollador Fullstack con experiencia en project management motivado, dedicado a crear soluciones web innovadoras y centradas en el usuario. Disfruto el desafío tanto de construir aplicaciones desde cero utilizando tecnologías como JavaScript, React y Node.js, como de coordinar proyectos para alcanzar sus objetivos. Mi experiencia técnica incluye el desarrollo de APIs eficientes, la optimización del rendimiento y la aplicación de principios ágiles para entregar resultados de alta calidad.
+
+Además de mi experiencia técnica, cuento con más de 5 años en roles de ventas y servicio al cliente, lo que me ha permitido desarrollar excelentes habilidades de comunicación, un fuerte enfoque en la satisfacción del cliente y una capacidad probada para resolver problemas de manera efectiva.
+
+Siempre estoy buscando oportunidades para aprender, crecer y contribuir a proyectos que marquen la diferencia.
 
 <h2 align="left">🛠️ Tecnologias:</h2>
 
